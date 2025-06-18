@@ -65,4 +65,4 @@ For support, suggestions, or inquiries, please use the contact section on the of
 
 ---
 
-**🔗 Official Website:** [https://scriptsrc.com](https://scriptsrc.com/scripts/vidsrc-embeds-noads/)
+**🔗 Official Website:** [https://scriptsrc.com](https://scriptsrc.com)
