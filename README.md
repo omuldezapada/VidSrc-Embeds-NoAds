@@ -2,7 +2,7 @@
 
 **VidSrc-Embeds-NoAds** is a minimalist, serverless proxy built with **Node.js**, leveraging **Axios** and **Cheerio** to fetch and sanitize video embed content from **VidSrc**. Its goal is simple yet powerful: strip all ads from embedded players, returning a clean and safe iframe for use on any website or application.
 
-> 🚀 **This repository serves for promotion only. For full access to the source code, documentation, and updates, please visit the official website: [scriptsrc.com](https://scriptsrc.com)**
+> 🚀 **This repository serves for promotion only. For full access to the source code, documentation, and updates, please visit the official website: [scriptsrc.com](https://scriptsrc.com/scripts/vidsrc-embeds-noads/)**
 
 ---
 
@@ -49,7 +49,7 @@ https://vid-src-embeds-no-ads.vercel.app/embed?url=https://vidsrc.in/embed/tt094
 
 📌 **The full source code, installation guide, and updates are available exclusively at:**
 
-👉 [https://scriptsrc.com](https://scriptsrc.com)
+👉 [https://scriptsrc.com](https://scriptsrc.com/scripts/vidsrc-embeds-noads/)
 
 ---
 
@@ -65,4 +65,4 @@ For support, suggestions, or inquiries, please use the contact section on the of
 
 ---
 
-**🔗 Official Website:** [https://scriptsrc.com](https://scriptsrc.com)
+**🔗 Official Website:** [https://scriptsrc.com](https://scriptsrc.com/scripts/vidsrc-embeds-noads/)
