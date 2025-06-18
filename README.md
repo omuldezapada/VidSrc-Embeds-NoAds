@@ -30,7 +30,7 @@
 ## 🧪 Example Usage
 
 ```
-https://vid-src-embeds-no-ads.vercel.app/embed?url=https://vidsrc.in/embed/tt0944947/2-3/
+https://vid-src-embeds-no-ads-demo.vercel.app/embed?url=https://vidsrc.in/embed/tt0944947/2-3/
 ```
 
 > ✅ Output: Clean HTML with only the video iframe
